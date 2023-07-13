@@ -40,6 +40,11 @@ If you are interested in optimizing certain aspects(such as https://github.com/m
 
 If you have any questions/suggestions, here are some contact methods: [Discord](https://discord.com/invite/R3wNsqq3v5) | [Twitter](https://twitter.com/immazzystar) | [Reddit: r/Queryable](https://www.reddit.com/r/Queryable/).
 
+
+## Dev tips
+open app folder open mac
+xcrun simctl get_app_container booted com.a.b.c
+
 ## License
 MIT License
 
