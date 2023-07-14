@@ -2,3 +2,6 @@
 Queryable/Queryable.xcodeproj/xcuserdata/
 Queryable/Queryable.xcodeproj/project.xcworkspace/xcshareddata/
 Queryable/Queryable.xcodeproj/project.xcworkspace/xcuserdata/
+ImageEncoder_float32.mlpackage
+TextEncoder_float32.mlpackage
+.ipynb_checkpoints
